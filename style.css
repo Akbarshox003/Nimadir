@@ -1,0 +1,11 @@
+/* .lorem{
+    border: 1px solid black;
+    width: 1300px;
+    height: 900px;
+    background-image: url(photo_2022-05-21_23-00-51.jpg);
+}
+.lorem:hover{
+    background-image: url(photo_2022-05-21_21-02-19.jpg);
+    transform: rotate(-360deg);
+    transition-duration: 1s;        
+} */
